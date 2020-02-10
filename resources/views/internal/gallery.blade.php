@@ -1,4 +1,7 @@
 @extends('layout')
+@section('title' , 'Travelouge Tours| Gallery')
+@include('internal.nav2')
+
 @section('body')
     <!-- gallery -->
     <div class="gallery agile-section" id="gallery">

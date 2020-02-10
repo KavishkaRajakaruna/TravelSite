@@ -5,7 +5,7 @@
             <div class="header-left">
                 <div class="w3layouts-logo">
                     <h1>
-                        <a href="index.html"><span>T</span>Travelogue Tours</a>
+                        <a href="/"><span>T</span>Travelogue Tours</a>
                     </h1>
                     <h2>find your special tour</h2>
                 </div>
@@ -24,12 +24,12 @@
                             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                 <nav>
                                     <ul class="nav navbar-nav">
-                                        <li><a class="active list-border" href="index.html">Home</a></li>
-                                        <li><a class="homestyle" href="gallery.html">Gallery</a></li>
-                                        <li><a class="homestyle" href="packages.html">Packages</a></li>
-                                        <li><a class="homestyle" href="feedbacks.html">Feedbacks</a></li>
-                                        <li><a class="homestyle" href="aboutus.html">About Us</a></li>
-                                        <li><a class="homestyle" href="contactus.html">Contact Us</a></li>
+                                        <li><a href="/">Home</a></li>
+                                        <li><a href="gallery">Gallery</a></li>
+                                        <li><a href="packages">Packages</a></li>
+                                        <li><a href="feedbacks">Feedbacks</a></li>
+                                        <li><a href="about-us">About Us</a></li>
+                                        <li><a href="contact-us">Contact Us</a></li>
 
 
                                     </ul>

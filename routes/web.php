@@ -14,4 +14,9 @@
 
 Route::view('/', 'internal.index');
 Route::view('gallery', 'internal.gallery');
-
+Route::view('packages', 'internal.packages');
+Route::view('feedbacks' , 'internal.feedbacks');
+Route::view('contact-us', 'internal.contact-us');
+Route::view('about-us', 'internal.about-us');
+Route::view('excurtion' , 'internal.excurtions');
+//Route::post('contact-us' , 'internal.contact-us');

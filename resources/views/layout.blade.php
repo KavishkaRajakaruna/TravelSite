@@ -28,7 +28,7 @@
     <!-- //font-awesome-icons -->
 </head>
 <body>
-@include('internal.nav')
+@yield('nav')
 @yield('body')
 @include('internal.footer')
 <script src="js/lightbox-plus-jquery.min.js"> </script>
