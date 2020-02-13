@@ -26,6 +26,7 @@
     <!-- font-awesome-icons -->
     <link href="css/font-awesome.css" type="text/css" rel="stylesheet">
     <!-- //font-awesome-icons -->
+    @yield('css')
 </head>
 <body>
 @yield('nav')

@@ -28,6 +28,7 @@
                     <textarea placeholder="Your Message"  name="message"></textarea>
                     <input type="submit" value="SEND MESSAGE">
                     @csrf
+
                 </form>
             </div>
             <div class="clearfix"></div>

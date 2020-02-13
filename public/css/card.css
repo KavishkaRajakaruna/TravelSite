@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Arial, Helvetica, sans-serif; 
+    font-size: 17px;
+    padding: 8px;
+ }
+
+ h2{
+    text-align: center;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.row{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap; 
+    flex-wrap: wrap;
+    margin: 0 400px  ;
+    line-height: 50%;    
+ }
+
+ .col-75{      
+    padding: 0 100px ;
+    margin-top: 6px;
+    float: left;
+ }
+
+.container{
+    background-color: hsl(180, 100%, 100%) ;
+    padding: 5px 5px;
+    border: 2px solid lightgray ;
+    border-radius: 3px;
+    max-height: 200px;  
+}
+
+.form{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 30px;    
+}

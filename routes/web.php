@@ -19,4 +19,8 @@ Route::view('feedbacks' , 'internal.feedbacks');
 Route::view('contact-us', 'internal.contact-us');
 Route::view('about-us', 'internal.about-us');
 Route::view('excurtion' , 'internal.excurtions');
-//Route::post('contact-us' , 'internal.contact-us');
+Route::view('results', 'internal.results');
+Route::post('contact-us' , 'ConatctForms@store');
+Route::post('excurtion' , 'ConatctForms@storePackage');
+Route::get('results', 'ConatctForms@show');
+
